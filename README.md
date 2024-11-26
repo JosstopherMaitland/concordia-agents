@@ -1,2 +1,2 @@
 # concordia-agents
-Components and agents for the concordia framework.
+Components and agents for the concordia framework. (under dev).
